@@ -16,6 +16,9 @@ Você também pode testa-la diretamente no seu dispositivo Android baixando a ú
 
 Caso ocorra algum problema e não consiga baixar essa versão, esse é um short mostrando o app e suas funcionalidades:
 
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/83607446/235766088-fa7cf24b-bcca-4be1-bacf-6a30100fb438.gif)
+
+
 
 
 
