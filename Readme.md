@@ -12,7 +12,7 @@ Este aplicativo foi desenvolvido com linguagem **Dart/ Flutter** mostrando uma *
 
 
 
-Você também pode testa-la diretamente no seu dispositivo Android baixando a última versão através do link  👉  https://we.tl/t-ql2CbAEePH
+Você também pode testa-la diretamente no seu dispositivo Android baixando a última versão através do link  👉  https://we.tl/t-JFhPTRAWl7
 
 Caso ocorra algum problema e não consiga baixar essa versão, esse é um short mostrando o app e suas funcionalidades:
 
